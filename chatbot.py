@@ -4,10 +4,14 @@ from langchain_chroma import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.messages import HumanMessage
 from dotenv import load_dotenv
+import os
 
 load_dotenv()
 
 CHROMA_PATH = "chroma_db"
+
+if "OPENAI_API_KEY" in st.secrets:
+    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
 
 st.set_page_config(
     page_title="Yalda 2.0 - AI Assistant",
@@ -15,7 +19,6 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS for enhanced aesthetics
 st.markdown("""
 <style>
     :root {
