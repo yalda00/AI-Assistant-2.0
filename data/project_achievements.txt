@@ -1,0 +1,87 @@
+# PROJECTS & ACHIEVEMENTS
+
+## Legislative LLM (Long Language Model) — Mar 2025
+**Impact:** Published research on decision-making generalization in RAG systems
+
+Developed and evaluated multiple RAG-based agent architectures for complex decision-making simulation.
+- Designed an experimental "Fast Mind – Slow Mind" reasoning model combining fast intuition with deliberative analysis
+- Implemented a courtroom-style multi-agent system featuring two lawyer agents and a judge for adversarial reasoning
+- Compared four retrieval strategies using LangChain and OpenAI APIs
+- Achieved marked improvement in factual reasoning and policy compliance
+- Published findings: "Evaluating Decision-Making Generalization in RAG Agent Architectures" (2025)
+
+## Neuro-Gloves — Feb 2025
+**Impact:** Real-time Parkinson's tremor detection with 35% improved data quality
+
+Created real-time AI preprocessing and monitoring system for health tracking.
+- Engineered Arduino-based sensors to stream motion data into OpenCV for live feature extraction
+- Built ML-ready feature vectors to drive predictive modeling
+- Integrated signal noise reduction and adaptive filtering
+- Enabled smart-home automation triggers based on tremor patterns
+- Improved data quality by 35% through advanced signal processing
+
+## Resume Intelligence Engine — EXera Solutions (2024)
+**Impact:** Deployed recruiter dashboards serving real-time candidate ranking at scale
+
+Developed a deep learning system that ranked resumes using NLP and vector-based classification.
+- Built modular Python pipelines for text preprocessing, embedding vectorization, and candidate ranking
+- Implemented OOP principles for maintainable, scalable code
+- Deployed live RESTful endpoints supporting recruiter dashboards with near real-time inference
+- Visualized recruiter interaction metrics using Tableau
+- Tracked diversity analytics and candidate pipeline insights
+- System ranked resumes across $81.84B HR tech market
+
+## Legal Contract Analyzer — Wat.AI (2024)
+**Impact:** 30% faster inference on legal document processing
+
+Designed and deployed LangChain-based contract parsing pipelines for semantic clause detection.
+- Combined ReAct reasoning and fine-grained retrieval strategies
+- Optimized PyTorch models using ONNX acceleration
+- Implemented asynchronous retrieval to minimize latency
+- Achieved 30% faster model inference without sacrificing accuracy
+- Ensured model compliance with Responsible AI and legal accuracy frameworks
+- Successfully deployed in production for legal research workflows
+
+## Multimodal Insight Engine — RemitBee (2025)
+**Impact:** 97% accuracy, 40% reduction in manual data entry
+
+Engineered a Google Cloud–based ML platform to interpret handwritten, audio, and image data.
+- Integrated Gemini LLMs with Speech-to-Text and Vision APIs
+- Achieved 97% content extraction accuracy across multiple modalities
+- Deployed serverless APIs with AWS Lambda and PostgreSQL for scalability
+- Enabled end-to-end document triage, summarization, and structured insights
+- Reduced manual data entry by 40%, improving operational efficiency
+
+## Front-End Software Developer — While She Is True (Sep 2023 – Aug 2024)
+**Impact:** 20% improvement in organic traffic and engagement
+
+Built responsive, user-centered web applications emphasizing accessibility and design precision.
+- Collaborated with UX researchers and stakeholders on scalable front-end architectures
+- Developed components using React.js, HTML5, CSS3, and TailwindCSS
+- Improved organic traffic by 20% through React Helmet and dynamic SEO strategies
+- Designed mobile-responsive, WCAG-compliant interfaces
+- Optimized for performance across multi-device environments
+
+## Leadership: Founder & President — Unity Through STEM (May 2023 – Nov 2024)
+**Mission:** Democratizing STEM education for underrepresented and international students globally
+
+- Founded initiative focused on accessibility in technology education
+- Developed digital learning materials and mentorship frameworks in collaboration with international institutions
+- Led cross-border workshops emphasizing inclusivity, creativity, and applied learning
+- Built community of young leaders committed to ethical tech innovation
+
+## The Hardest Thing I've Done: National Space Society Space Settlement Competition
+**Achievement:** 3rd place out of 4,600 teams worldwide | All-girl team from underrepresented backgrounds
+
+Led an all-girl team (including women of color and LGBTQ+ members) to design an accessible space settlement.
+- Tackled complex topics: menstrual health in microgravity, mobility aids in space environments
+- Researched biomedical studies, mechanical engineering, and space law
+- Prioritized accessibility and female support — factors often overlooked in traditional designs
+- Competed on international stage at National Space Society conference in Los Angeles
+- Proved that young women can succeed in aerospace, that accessibility matters everywhere
+
+**Lessons Learned:**
+- Resilience in the face of adversity and external doubt
+- The power of challenging outdated norms and breaking barriers
+- Innovation means nothing if it's not accessible to everyone
+- Bold ideas combined with determination can drive real change

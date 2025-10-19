@@ -1,0 +1,67 @@
+TECHNICAL SKILLS
+
+Programming Languages:
+Python, C, C++, Java, MATLAB, JavaScript, TypeScript, HTML, CSS, SQL, MongoDB, Regex, Bash, JSON
+
+Cloud Platforms:
+Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft Azure
+
+AI/Machine Learning:
+- LLM Integration, Prompt Engineering
+- TensorFlow, PyTorch, scikit-learn
+- RAG-based architectures, LangChain
+- NLP pipelines, embedding optimization
+- Model deployment, ONNX acceleration
+- TF-Agents (DQN)
+
+Web Development:
+- Frontend: ReactJS, NextJS, ExpressJS
+- Backend: NodeJS
+- Tools: HTML5, CSS3, TailwindCSS, Figma
+- UI/UX design systems, responsive layouts
+
+Data Engineering:
+- Data structuring, normalization, and curation
+- ETL pipelines, data preprocessing
+- Tableau dashboards and data visualization
+- SQL, PostgreSQL, MongoDB, SQLite
+
+Tools & Environments:
+Docker, Git, GitHub, GitLab, JIRA, Postman, VS Code, Linux (Ubuntu, WSL), Ansible
+
+APIs & Integrations:
+REST APIs, WebSockets, OpenAI, Groq, Hugging Face, Astra DB, Google Cloud APIs
+
+Robotics & Embedded Systems:
+Arduino, Lego Robotics, OpenCV, sensor interfacing
+
+Design Tools:
+Figma, SolidWorks, Fusion 360, Adobe Creative Suite
+
+Databases:
+PostgreSQL, Astra DB, SQLite, MongoDB
+
+Testing & QA:
+QA frameworks, functional regression testing, usability testing
+
+SOFT SKILLS
+
+Leadership & Team Management
+- Founder & President of Unity Through STEM
+- Cross-functional team collaboration
+- Technical mentorship and teaching
+
+Communication & Presentation
+- Featured speaker at TikTok Canada HQ
+- Engineering communication and documentation
+- Research and publication experience
+
+Problem-Solving & Strategic Thinking
+- Systems design and engineering mindset
+- Analytical thinking and complex problem-solving
+- Cross-disciplinary innovation
+
+Teaching & Mentorship
+- Programming Instructor at Digital Moment
+- Guided learners through AI, robotics, and cybersecurity workshops
+- Emphasis on creativity, critical thinking, and ethical awareness

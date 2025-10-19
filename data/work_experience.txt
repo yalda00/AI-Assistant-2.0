@@ -1,0 +1,48 @@
+WORK EXPERIENCE
+
+SOFTWARE & MACHINE LEARNING CO-OP
+Rogers Communications Canada Inc. | Toronto, ON
+Aug 2025 - Present
+- Designing and implementing AI/ML solutions to automate quality review of internal documentation
+- Applying machine learning concepts to transcribe, summarize, and analyze large datasets of podcasts and presentations
+- Developing Python-based pipelines leveraging TensorFlow, PyTorch, scikit-learn, Azure OpenAI, and LangChain
+- Building and training machine learning models to evaluate content against accessibility and clarity standards
+- Integrating outputs into corporate workflows using automation tools
+
+SOFTWARE ENGINEER CO-OP
+RemitBee | Mississauga, ON
+Jan 2025 - Apr 2025
+- Developed and deployed a multimodal machine learning platform using Google Cloud Vision, Speech-to-Text, ASR, and Gemini LLMs
+- Extracted structured insights from handwritten, audio, and image-based records with 97% accuracy
+- Built serverless Python APIs on AWS Lambda with PostgreSQL for scalable parsing and triage
+- Enabled efficient summarization of clinical documents, reducing manual input by 40%
+- Leveraged AI tools such as GitHub Copilot while critically evaluating their strengths and limitations
+
+MACHINE LEARNING RESEARCHER
+Wat.AI | Waterloo, ON
+Sep 2024 - Mar 2025
+- Applied engineering principles to design and deploy LangChain-based pipelines using LLMs for legal contract analysis
+- Leveraged ReAct-style logic and semantic filtering for clause segmentation and metadata extraction
+- Optimized model inference speed and accuracy by 30% using PyTorch, Pandas, and ONNX
+- Implemented lightweight deployment, batch processing, and performance monitoring
+- Integrated ML endpoints into interactive dashboards via REST APIs
+- Reduced retrieval latency with async processing, caching, and prompt refinement
+
+MACHINE LEARNING & DATA ENGINEER INTERN
+EXera Solutions Inc. | Toronto, ON
+Jan 2024 - June 2024
+- Developed a deep learning–based resume ranking system using modular NLP pipelines
+- Implemented preprocessing, vectorization, and classification pipelines
+- Deployed inference with Python, OOP, and RESTful endpoints for real-time recruiter dashboards
+- Created Tableau dashboards to track resume ranking precision and recruiter usage trends
+- Built scalable data pipelines for market intelligence using Python, Ansible, and web scraping
+- Enabled weekly competitive reports and trend tracking in the $81.84B HR tech market
+
+FRONT-END SOFTWARE DEVELOPER
+While She Is True | Remote
+Sep 2023 - Aug 2024
+- Built responsive, user-centered web applications emphasizing accessibility and design precision
+- Collaborated with UX researchers and stakeholders on scalable front-end architectures
+- Used React.js, HTML5, and CSS3 for component development
+- Improved organic traffic and engagement by 20% through React Helmet and dynamic SEO strategies
+- Designed mobile-responsive, WCAG-compliant interfaces optimized for performance and multi-device accessibility

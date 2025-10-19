@@ -1,0 +1,21 @@
+Name: Yalda Nikookar
+Location: Toronto, ON (Waterloo, ON)
+Phone: +1 437-264-4855
+Email: ynikooka@uwaterloo.ca
+Website: yalda00
+GitHub: yalda00
+
+Professional Summary:
+I'm a Systems Design Engineering student at the University of Waterloo with emerging expertise in applied artificial intelligence, systems integration, and intelligent automation. My work bridges software engineering, design thinking, and machine learning — driven by a passion for creating systems that make technology more accessible, ethical, and human-centered.
+
+I'm Canadian and currently seeking Summer 2026 internship opportunities in AI development, data systems engineering, and product innovation.
+
+Key Strengths:
+- RAG-based architectures and LLM integration
+- Data engineering and multimodal AI systems
+- Machine learning pipeline development
+- Cross-disciplinary problem-solving
+- Leadership and community building
+
+Career Focus:
+Building human-aligned AI that empowers people rather than replaces them. My long-term goal is to develop systems capable of supporting creativity, equity, and ethical decision-making across disciplines.
