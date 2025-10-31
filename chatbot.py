@@ -5,13 +5,21 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.messages import HumanMessage
 from dotenv import load_dotenv
 import os
+import tempfile
 
 load_dotenv()
 
 CHROMA_PATH = "chroma_db"
 
-if "OPENAI_API_KEY" in st.secrets:
-    os.environ["OPENAI_API_KEY"] = st.secrets["OPENAI_API_KEY"]
+try:
+    openai_api_key = st.secrets["OPENAI_API_KEY"]
+except Exception:
+    openai_api_key = os.getenv("OPENAI_API_KEY")
+
+if not openai_api_key:
+    st.error("⚠️ OPENAI_API_KEY not found in Streamlit secrets or .env file.")
+else:
+    os.environ["OPENAI_API_KEY"] = openai_api_key
 
 st.set_page_config(
     page_title="Yalda 2.0 - AI Assistant",
